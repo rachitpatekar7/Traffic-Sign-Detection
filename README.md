@@ -66,10 +66,7 @@ git clone https://github.com/your-username/Traffic-Sign-Detection.git
 cd Traffic-Sign-Detection
 ```
 
-2. Launch the Jupyter notebook to train and test the model:
-```bash
-jupyter notebook src/model-training.ipynb
-```
+2. Launch the Google Collab to train and test the model
 
 3. Run the cells in the notebook to process images and train the model for detecting traffic signs.
 

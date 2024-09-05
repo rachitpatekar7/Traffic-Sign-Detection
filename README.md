@@ -93,10 +93,3 @@ After training the model on the provided dataset, the model is capable of detect
 - Speed limit 30 km/h
 
 You can view more results in the notebook and adjust the model parameters to improve performance.
-
-## Contributors
-- Your Name (Project Lead)  
-- Contributor 1  
-- Contributor 2
-
-

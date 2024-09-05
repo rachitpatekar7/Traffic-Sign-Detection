@@ -1,0 +1,9 @@
+os-sys
+google-colab
+tensorflow==1.x
+numpy
+pandas
+opencv-python
+matplotlib
+pillow
+scikit-learn

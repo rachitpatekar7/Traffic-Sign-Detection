@@ -62,7 +62,7 @@ The project uses a set of traffic sign images stored in the `data/` folder. The 
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/Traffic-Sign-Detection.git
+git clone https://github.com/rachitpatekar7/Traffic-Sign-Detection.git
 cd Traffic-Sign-Detection
 ```
 
